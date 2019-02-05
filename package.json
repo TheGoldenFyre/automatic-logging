@@ -1,0 +1,26 @@
+{
+  "name": "automatic-logging",
+  "version": "1.0.0",
+  "description": "Automatic logging for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGoldenFyre/automatic-logging.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "Thomas van der Plas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheGoldenFyre/automatic-logging/issues"
+  },
+  "homepage": "https://github.com/TheGoldenFyre/automatic-logging#readme",
+  "dependencies": {
+    "date-and-time": "^0.6.3",
+    "request": "^2.88.0"
+  }
+}
